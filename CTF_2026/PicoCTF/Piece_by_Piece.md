@@ -1,7 +1,9 @@
 # Piece by Piece
 
 This challenge is about finding a flag from splitted parts in a directory. First we launch the instance, and we have to connect as ctf-player to an address dolphin-cove.picoctf.net at port 59890 : 
+
 ssh ctf-player@dolphin-cove.picoctf.net -p 59890
+
 We enter the given password, and we arrive to a workspace with 
 <img width="1203" height="87" alt="image" src="https://github.com/user-attachments/assets/7e1e6c1b-b7ce-47b4-9983-48e3781cd04c" />
 
